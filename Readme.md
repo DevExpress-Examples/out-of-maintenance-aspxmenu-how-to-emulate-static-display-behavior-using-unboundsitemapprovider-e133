@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxMenu - How to emulate static display behavior using UnboundSiteMapProvider
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1336/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how a static display feature, similar to a standard Menu control's StaticDisplayLevels property, can be implemented using the ASPxMenu control, together with the UnboundSiteMapProvider component.<br />
